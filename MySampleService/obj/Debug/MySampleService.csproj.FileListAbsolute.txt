@@ -1,0 +1,8 @@
+c:\users\andrei.coman\documents\visual studio 2015\Projects\MySampleService\MySampleService\bin\Debug\MySampleService.exe.config
+c:\users\andrei.coman\documents\visual studio 2015\Projects\MySampleService\MySampleService\bin\Debug\MySampleService.exe
+c:\users\andrei.coman\documents\visual studio 2015\Projects\MySampleService\MySampleService\bin\Debug\MySampleService.pdb
+c:\users\andrei.coman\documents\visual studio 2015\Projects\MySampleService\MySampleService\obj\Debug\MySampleService.csprojResolveAssemblyReference.cache
+c:\users\andrei.coman\documents\visual studio 2015\Projects\MySampleService\MySampleService\obj\Debug\MySampleService.ProjectInstaller.resources
+c:\users\andrei.coman\documents\visual studio 2015\Projects\MySampleService\MySampleService\obj\Debug\MySampleService.csproj.GenerateResource.Cache
+c:\users\andrei.coman\documents\visual studio 2015\Projects\MySampleService\MySampleService\obj\Debug\MySampleService.exe
+c:\users\andrei.coman\documents\visual studio 2015\Projects\MySampleService\MySampleService\obj\Debug\MySampleService.pdb

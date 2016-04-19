@@ -1,0 +1,7 @@
+c:\users\andrei.coman\documents\visual studio 2015\Projects\MySampleService\MySampleService\bin\Release\MySampleService.exe.config
+c:\users\andrei.coman\documents\visual studio 2015\Projects\MySampleService\MySampleService\bin\Release\MySampleService.exe
+c:\users\andrei.coman\documents\visual studio 2015\Projects\MySampleService\MySampleService\bin\Release\MySampleService.pdb
+c:\users\andrei.coman\documents\visual studio 2015\Projects\MySampleService\MySampleService\obj\Release\MySampleService.ProjectInstaller.resources
+c:\users\andrei.coman\documents\visual studio 2015\Projects\MySampleService\MySampleService\obj\Release\MySampleService.csproj.GenerateResource.Cache
+c:\users\andrei.coman\documents\visual studio 2015\Projects\MySampleService\MySampleService\obj\Release\MySampleService.exe
+c:\users\andrei.coman\documents\visual studio 2015\Projects\MySampleService\MySampleService\obj\Release\MySampleService.pdb
